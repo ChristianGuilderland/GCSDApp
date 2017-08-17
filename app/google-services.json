@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5035684143",
+    "project_id": "gcsd-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5035684143:android:0dc179470cd28c6e",
+        "android_client_info": {
+          "package_name": "com.example.gcsd.gcsdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5035684143-vpmkcnie596n52ul33sarrjh1joo9g1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gcsd.gcsdapp",
+            "certificate_hash": "0710284411ba4ccc36b55db7adf6c8a5ebee6649"
+          }
+        },
+        {
+          "client_id": "5035684143-e24a784e2h1sfvj47g1jt5qgmtd5oj31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZdhgK1UIL8Tfg-MfyNJo76e8pgP8DMZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

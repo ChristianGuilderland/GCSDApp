@@ -1,0 +1,111 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EVENTS"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check the clubs you would like to get notifications from"
+        />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alliance" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Amnesty International" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Art Club" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Badminton Club" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Best Buddies" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CBS Bowling Club" />
+
+    <CheckBox
+        android:id="@+id/checkBox7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chamber Choir" />
+
+    <CheckBox
+        android:id="@+id/checkBox8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chamber Strings" />
+
+    <CheckBox
+        android:id="@+id/checkBox9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chemistry Club" />
+
+    <CheckBox
+        android:id="@+id/checkBox10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class of 2018" />
+
+    <CheckBox
+        android:id="@+id/checkBox11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class of 2019" />
+
+    <CheckBox
+        android:id="@+id/checkBox12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class od 2020" />
+
+    <CheckBox
+        android:id="@+id/checkBox13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Class of 2021" />
+
+    <CheckBox
+        android:id="@+id/checkBox14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dance Squad" />
+
+</LinearLayout>
